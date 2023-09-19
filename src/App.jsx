@@ -8,6 +8,7 @@ function App() {
     <>
      <h1>Hola Mundo</h1>
      <p>Vida Natural</p>
+     <h2>Menú</h2>
     </>
   )
 }
